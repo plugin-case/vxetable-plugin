@@ -1,0 +1,13 @@
+{
+  "name": "vxetable-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/bundle.js",
+  "unpkg": "dist/bundle.js",
+  "scripts": {
+    "start": "rollup --config"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
