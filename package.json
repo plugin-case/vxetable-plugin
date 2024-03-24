@@ -1,9 +1,9 @@
 {
   "name": "vxetable-plugin",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "",
-  "main": "dist/bundle.js",
-  "unpkg": "dist/bundle.js",
+  "main": "dist/vxetable-plugin.min.js",
+  "unpkg": "dist/vxetable-plugin.min.js",
   "scripts": {
     "start": "rollup --config"
   },
