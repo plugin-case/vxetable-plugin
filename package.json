@@ -1,6 +1,6 @@
 {
   "name": "vxetable-plugin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "dist/vxetable-plugin.min.js",
   "unpkg": "dist/vxetable-plugin.min.js",
@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "rollup-plugin-json": "^4.0.0"
+  }
 }
